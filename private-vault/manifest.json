@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "cipher": "AES-GCM",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 310000,
+    "salt": "tAwjvb0aPchJzrAJVTdWgg=="
+  },
+  "photos": [
+    {
+      "id": "memory-1",
+      "file": "memory-01.photo",
+      "iv": "24ITF9MTX08V7FhJ",
+      "mimeType": "image/jpeg",
+      "caption": "合照 1",
+      "size": 4909727,
+      "sha256": "6e75318e178cd97349b6472c7eac9a5baef405f1bb986b6993298eb0581e865b"
+    },
+    {
+      "id": "memory-2",
+      "file": "memory-02.photo",
+      "iv": "R6XZMhjgnUENbZno",
+      "mimeType": "image/jpeg",
+      "caption": "合照 2",
+      "size": 2727610,
+      "sha256": "e3b22b1969b350542b14c66a720a23147c0aac22dd9d0036359a2166420c4a26"
+    },
+    {
+      "id": "memory-3",
+      "file": "memory-03.photo",
+      "iv": "8V1J4seTP+zvDgOt",
+      "mimeType": "image/jpeg",
+      "caption": "合照 3",
+      "size": 6431482,
+      "sha256": "b6bf9f33f3fd8ab943608260b5287c6eb6819505de1884e7d039ab323a856d46"
+    },
+    {
+      "id": "memory-4",
+      "file": "memory-04.photo",
+      "iv": "4Jt2vctj6Etj2CAR",
+      "mimeType": "image/jpeg",
+      "caption": "合照 4",
+      "size": 6828315,
+      "sha256": "09cec91a2b547458ec8846a32f05286a0c75ae58611a11843dd4e0b05697b509"
+    },
+    {
+      "id": "memory-5",
+      "file": "memory-05.photo",
+      "iv": "gE6LmNxxTYbn6Brq",
+      "mimeType": "image/jpeg",
+      "caption": "合照 5",
+      "size": 11453721,
+      "sha256": "6c7187f6a9d7d7f364b587094eb3b281ec5240c50daf10b3953a78faa7bed279"
+    }
+  ]
+}
