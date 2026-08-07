@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "cipher": "AES-GCM",
+  "photos": [
+    {
+      "id": "memory-1",
+      "file": "memory-01.photo",
+      "iv": "SmwgOFqU6kbLsq0C",
+      "mimeType": "image/webp",
+      "caption": "我们的照片 1",
+      "width": 1200,
+      "height": 1600,
+      "size": 130494,
+      "sha256": "62df27edbef7795f9dfae8c9b987c6421b9b64b6150af54c267368f1119da9e5",
+      "featured": true
+    },
+    {
+      "id": "memory-2",
+      "file": "memory-02.photo",
+      "iv": "zpTzFI83DQ8nubFa",
+      "mimeType": "image/webp",
+      "caption": "我们的照片 2",
+      "width": 1200,
+      "height": 1600,
+      "size": 86428,
+      "sha256": "acc4432bd939fc620eb8229822e287fae4046f6d0392a86faba34a0841791293",
+      "featured": true
+    },
+    {
+      "id": "memory-3",
+      "file": "memory-03.photo",
+      "iv": "lUnptqGz5iRNoZmL",
+      "mimeType": "image/webp",
+      "caption": "我们的照片 3",
+      "width": 1600,
+      "height": 1200,
+      "size": 384544,
+      "sha256": "df4ec789f94ce99fa227590936927963626d50ce5a23630ab3b6c98d9a556b74",
+      "featured": true
+    },
+    {
+      "id": "memory-4",
+      "file": "memory-04.photo",
+      "iv": "jvmGnVKZjbEgptSy",
+      "mimeType": "image/webp",
+      "caption": "我们的照片 4",
+      "width": 1200,
+      "height": 1600,
+      "size": 70272,
+      "sha256": "24596ea10249fb72c080fd906b7e606834bed865e974756f08949d15e9c2536e",
+      "featured": true
+    },
+    {
+      "id": "memory-5",
+      "file": "memory-05.photo",
+      "iv": "r41UzZAOjaMX7NXq",
+      "mimeType": "image/webp",
+      "caption": "我们的照片 5",
+      "width": 1200,
+      "height": 1600,
+      "size": 63608,
+      "sha256": "ddca6a38d0717e058ce4cbd49d86115dd74cb5e3c6cd281115124bf5eed2f67d",
+      "featured": true
+    }
+  ]
+}
