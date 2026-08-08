@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">予你之间</string>
+    <string name="browser_unavailable">没有找到可以打开网站的浏览器</string>
+</resources>

@@ -1,0 +1,25 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.yaya.onlyus"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.yaya.onlyus"
+        minSdk 23
+        targetSdk 35
+        versionCode 1
+        versionName "1.0.0"
+    }
+}
+
+tasks.register("prepareAppIcon", Exec) {
+    workingDir(rootProject.projectDir)
+    commandLine("node", "prepare-icon.mjs")
+}
+
+tasks.named("preBuild").configure {
+    dependsOn("prepareAppIcon")
+}
